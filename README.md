@@ -8,7 +8,7 @@ Development Environment
 - Xcode
 - Git
 - SubEthaEdit
-  * [SubEthaEdit download from Mac App Store](https://itunes.apple.com/tw/app/subethaedit/id728530824?mt=12).
+  * [Download SubEthaEdit from Mac App Store](https://itunes.apple.com/tw/app/subethaedit/id728530824?mt=12).
 - iTerm2
   * [iTerm2 homepage](http://www.iterm2.com/#/section/home).
 - Homebrew
@@ -24,7 +24,7 @@ Development Environment
 - MOU
   * [MOU homepage](http://mouapp.com).
 - CodeBox
-  * [CodeBox download from Mac App Store](https://itunes.apple.com/tw/app/codebox/id412536790?mt=12).
+  * [Download CodeBox from Mac App Store](https://itunes.apple.com/tw/app/codebox/id412536790?mt=12).
 - SourceTree
   * [SourceTree homepage](http://www.sourcetreeapp.com).
 
