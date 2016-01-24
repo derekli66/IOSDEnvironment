@@ -38,9 +38,13 @@ Development Environment
   * [Download SimPholders from here](https://simpholders.com)
 - PaintCode
   * [Download PaintCode from here](http://www.paintcodeapp.com)
+- PAW
+  * [Download PAW from Mac App Store](https://itunes.apple.com/tw/app/paw-http-rest-client/id584653203?mt=12)
 
 Assistances
 -----------
+- Alfred 2
+- Pocket
 - Alternote (Based on Evernote)
 - Airmail 2
 - OmniFocus 2 (Mac app and iOS App)
